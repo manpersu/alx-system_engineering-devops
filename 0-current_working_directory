@@ -1,0 +1,2 @@
+#!/bin/bash
+find /root -type d -name 0x00-shell_basics
