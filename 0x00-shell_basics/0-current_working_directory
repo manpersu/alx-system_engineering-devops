@@ -1,2 +1,2 @@
 #!/bin/bash
-find / -name 0x00-shell_basics
+find / -name "0x00-shell_basics"
