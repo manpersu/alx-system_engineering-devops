@@ -1,2 +1,2 @@
 #!/bin/bash
-chgrp user:school hello
+chown user:school hello
