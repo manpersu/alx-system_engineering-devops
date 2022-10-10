@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo find ./ -type d -printf '.' | wc
+sudo find -mindepth 1 -type d | wc -l
